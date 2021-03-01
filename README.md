@@ -1,1 +1,1 @@
-# Pojeto desenvolvido no BootCamp, utilizando programação orientada a objetos
+# Projeto desenvolvido no BootCamp, utilizando programação orientada a objetos
